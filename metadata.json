@@ -1,0 +1,7 @@
+{
+  "name": "Quick Flipping Estimator",
+  "description": "A comprehensive real estate investment tool for property intake and detailed renovation cost estimation with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
